@@ -3051,6 +3051,8 @@
 .flex-9{flex: 9;}
 .flex-10{flex: 10;}
 
-
+/* [filter] ===========================*/
+.filter_shadow{filter:drop-shadow(2px 4px 6px black)}
+.rounded_pill{border-radius:5rem}
 
 
